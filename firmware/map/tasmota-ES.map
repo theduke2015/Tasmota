@@ -22516,10 +22516,9 @@ END GROUP
                                          0x70 (size before relaxing)
                 0x000000004021caf0                _Z14DhtEverySecondv
  .text._Z11XsnsEnabledj
-                0x000000004021cb48       0x43 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
-                                         0x4f (size before relaxing)
+                0x000000004021cb48       0x44 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
+                                         0x50 (size before relaxing)
                 0x000000004021cb4c                _Z11XsnsEnabledj
- *fill*         0x000000004021cb8b        0x1 
  .text._Z15XsnsSensorStatev
                 0x000000004021cb8c       0x83 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
                                          0xaf (size before relaxing)
@@ -28431,7 +28430,6 @@ END GROUP
  .text._Z11OneWireCrc8Ph
                 0x000000004024ccec       0x3c .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
                 0x000000004024ccec                _Z11OneWireCrc8Ph
- *fill*         0x000000004024cd28        0x0 
  *fill*         0x000000004024cd28        0x0 
  *fill*         0x000000004024cd28        0x0 
  *fill*         0x000000004024cd28        0x0 
@@ -34627,17 +34625,17 @@ END GROUP
                 0x0000000040287052       0x13 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
  .irom.text.tasmota_globals.h.413.104
                 0x0000000040287065       0x8f .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.419.5
+ .irom.text.tasmota.h.418.5
                 0x00000000402870f4       0x18 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.408.4
+ .irom.text.tasmota.h.407.4
                 0x000000004028710c        0x9 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.404.3
+ .irom.text.tasmota.h.403.3
                 0x0000000040287115       0xca .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.120.2
+ .irom.text.tasmota.h.119.2
                 0x00000000402871df        0x8 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.119.1
+ .irom.text.tasmota.h.118.1
                 0x00000000402871e7        0x9 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.105.0
+ .irom.text.tasmota.h.104.0
                 0x00000000402871f0        0x6 .pio/build/tasmota-ES/src/tasmota.ino.cpp.o
  .irom.text.unishox.cpp.156.4
                 0x00000000402871f6        0x8 .pio/build/tasmota-ES/lib989/libUnishox-1.0-shadinger(unishox.cpp.o)

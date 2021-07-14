@@ -23753,10 +23753,9 @@ END GROUP
                                          0x70 (size before relaxing)
                 0x00000000402198b8                _Z14DhtEverySecondv
  .text._Z11XsnsEnabledj
-                0x0000000040219910       0x43 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
-                                         0x4f (size before relaxing)
+                0x0000000040219910       0x44 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
+                                         0x50 (size before relaxing)
                 0x0000000040219914                _Z11XsnsEnabledj
- *fill*         0x0000000040219953        0x1 
  .text._Z15XsnsSensorStatev
                 0x0000000040219954       0x83 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
                                          0xaf (size before relaxing)
@@ -30103,7 +30102,6 @@ END GROUP
  .text._Z11OneWireCrc8Ph
                 0x00000000402475a4       0x3c .pio/build/tasmota-display/src/tasmota.ino.cpp.o
                 0x00000000402475a4                _Z11OneWireCrc8Ph
- *fill*         0x00000000402475e0        0x0 
  *fill*         0x00000000402475e0        0x0 
  *fill*         0x00000000402475e0        0x0 
  *fill*         0x00000000402475e0        0x0 
@@ -36620,17 +36618,17 @@ END GROUP
                 0x0000000040282a68       0x13 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
  .irom.text.tasmota_globals.h.413.104
                 0x0000000040282a7b       0x8f .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.419.5
+ .irom.text.tasmota.h.418.5
                 0x0000000040282b0a       0x18 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.408.4
+ .irom.text.tasmota.h.407.4
                 0x0000000040282b22        0x9 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.404.3
+ .irom.text.tasmota.h.403.3
                 0x0000000040282b2b       0xca .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.120.2
+ .irom.text.tasmota.h.119.2
                 0x0000000040282bf5        0x8 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.119.1
+ .irom.text.tasmota.h.118.1
                 0x0000000040282bfd        0x9 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.105.0
+ .irom.text.tasmota.h.104.0
                 0x0000000040282c06        0x6 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
  .irom.text.SevenSegmentAsciiMap.cpp.4.0
                 0x0000000040282c0c       0x60 .pio/build/tasmota-display/lib458/libarduino-tm1637.a(SevenSegmentAsciiMap.cpp.o)

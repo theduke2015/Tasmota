@@ -34512,17 +34512,17 @@ END GROUP
                 0x000000004028c84d       0x13 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom.text.tasmota_globals.h.413.104
                 0x000000004028c860       0x8f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.419.5
+ .irom.text.tasmota.h.418.5
                 0x000000004028c8ef       0x18 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.408.4
+ .irom.text.tasmota.h.407.4
                 0x000000004028c907        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.404.3
+ .irom.text.tasmota.h.403.3
                 0x000000004028c910       0xca .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.120.2
+ .irom.text.tasmota.h.119.2
                 0x000000004028c9da        0x8 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.119.1
+ .irom.text.tasmota.h.118.1
                 0x000000004028c9e2        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.105.0
+ .irom.text.tasmota.h.104.0
                 0x000000004028c9eb        0x6 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom.text.unishox.cpp.156.4
                 0x000000004028c9f1        0x8 .pio/build/tasmota-zbbridge/lib989/libUnishox-1.0-shadinger(unishox.cpp.o)

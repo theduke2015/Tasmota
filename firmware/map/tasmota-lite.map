@@ -19192,15 +19192,14 @@ END GROUP
                 0x000000004021355c                _Z11Energy200msv
  *fill*         0x0000000040213641        0x3 
  .text._Z11XsnsEnabledj
-                0x0000000040213644       0x43 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
-                                         0x4b (size before relaxing)
+                0x0000000040213644       0x44 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
+                                         0x4c (size before relaxing)
                 0x0000000040213648                _Z11XsnsEnabledj
- *fill*         0x0000000040213687        0x1 
  .text._Z15XsnsSensorStatev
-                0x0000000040213688       0x65 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
-                                         0x89 (size before relaxing)
+                0x0000000040213688       0x66 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
+                                         0x8a (size before relaxing)
                 0x0000000040213698                _Z15XsnsSensorStatev
- *fill*         0x00000000402136ed        0x3 
+ *fill*         0x00000000402136ee        0x2 
  .text._Z13CmndWebSensorv
                 0x00000000402136f0       0x63 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
                                          0x7f (size before relaxing)
@@ -23583,7 +23582,6 @@ END GROUP
  .text._Z9McpSetIntmPhhj
                 0x0000000040234c74       0x21 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
                 0x0000000040234c74                _Z9McpSetIntmPhhj
- *fill*         0x0000000040234c95        0x0 
  *fill*         0x0000000040234c95        0x0 
  *fill*         0x0000000040234c95        0x0 
  *fill*         0x0000000040234c95        0x0 
@@ -29327,17 +29325,17 @@ END GROUP
                 0x000000004026ccbf       0x13 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
  .irom.text.tasmota_globals.h.413.104
                 0x000000004026ccd2       0x8f .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.419.5
+ .irom.text.tasmota.h.418.5
                 0x000000004026cd61       0x18 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.408.4
+ .irom.text.tasmota.h.407.4
                 0x000000004026cd79        0x9 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.404.3
+ .irom.text.tasmota.h.403.3
                 0x000000004026cd82       0xca .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.120.2
+ .irom.text.tasmota.h.119.2
                 0x000000004026ce4c        0x8 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.119.1
+ .irom.text.tasmota.h.118.1
                 0x000000004026ce54        0x9 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.105.0
+ .irom.text.tasmota.h.104.0
                 0x000000004026ce5d        0x6 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
  *fill*         0x000000004026ce63        0x1 
  .irom.text.xlgt_interface.ino.23.1435

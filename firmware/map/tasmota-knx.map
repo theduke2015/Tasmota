@@ -24122,10 +24122,9 @@ END GROUP
                                          0x70 (size before relaxing)
                 0x000000004021cd68                _Z14DhtEverySecondv
  .text._Z11XsnsEnabledj
-                0x000000004021cdc0       0x43 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
-                                         0x4f (size before relaxing)
+                0x000000004021cdc0       0x44 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
+                                         0x50 (size before relaxing)
                 0x000000004021cdc4                _Z11XsnsEnabledj
- *fill*         0x000000004021ce03        0x1 
  .text._Z15XsnsSensorStatev
                 0x000000004021ce04       0x83 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
                                          0xaf (size before relaxing)
@@ -29922,7 +29921,6 @@ END GROUP
  .text._Z11OneWireCrc8Ph
                 0x000000004024b560       0x3c .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
                 0x000000004024b560                _Z11OneWireCrc8Ph
- *fill*         0x000000004024b59c        0x0 
  *fill*         0x000000004024b59c        0x0 
  *fill*         0x000000004024b59c        0x0 
  *fill*         0x000000004024b59c        0x0 
@@ -36155,17 +36153,17 @@ END GROUP
                 0x000000004028553d       0x13 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
  .irom.text.tasmota_globals.h.413.104
                 0x0000000040285550       0x8f .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.419.5
+ .irom.text.tasmota.h.418.5
                 0x00000000402855df       0x18 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.408.4
+ .irom.text.tasmota.h.407.4
                 0x00000000402855f7        0x9 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.404.3
+ .irom.text.tasmota.h.403.3
                 0x0000000040285600       0xca .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.120.2
+ .irom.text.tasmota.h.119.2
                 0x00000000402856ca        0x8 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.119.1
+ .irom.text.tasmota.h.118.1
                 0x00000000402856d2        0x9 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom.text.tasmota.h.105.0
+ .irom.text.tasmota.h.104.0
                 0x00000000402856db        0x6 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
  .irom.text.unishox.cpp.156.4
                 0x00000000402856e1        0x8 .pio/build/tasmota-knx/lib989/libUnishox-1.0-shadinger(unishox.cpp.o)
