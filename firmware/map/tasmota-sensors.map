@@ -37740,7 +37740,7 @@ END GROUP
                 0x000000004028ad21        0xe .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
  .irom.text.xx2c_interface.ino.23.2153
                 0x000000004028ad2f       0x15 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
- .irom.text.xsns_interface.ino.430.2149
+ .irom.text.xsns_interface.ino.542.2149
                 0x000000004028ad44       0x2a .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
  *fill*         0x000000004028ad6e        0x2 
  .irom.text.xsns_interface.ino.21.2148
@@ -38670,11 +38670,11 @@ END GROUP
                 0x0000000040295790        0x7 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
  .irom0.pstr.xx2c_interface.ino.422.2154
                 0x0000000040295797        0x2 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.979.2152
+ .irom0.pstr.xsns_interface.ino.1086.2152
                 0x0000000040295797        0x2 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.977.2151
+ .irom0.pstr.xsns_interface.ino.1084.2151
                 0x0000000040295797        0x7 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.966.2150
+ .irom0.pstr.xsns_interface.ino.1073.2150
                 0x0000000040295797        0x2 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o
  .irom0.pstr.xsns_67_as3935.ino.664.2146
                 0x0000000040295797        0x9 .pio/build/tasmota-sensors/src/tasmota.ino.cpp.o

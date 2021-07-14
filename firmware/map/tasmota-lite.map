@@ -28990,7 +28990,7 @@ END GROUP
                 0x0000000040266c54        0x9 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
  .irom.text.ESP8266WebServer-impl.h.38.6
                 0x0000000040266c5d        0xe .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom.text.xsns_interface.ino.430.1449
+ .irom.text.xsns_interface.ino.542.1449
                 0x0000000040266c6b        0x1 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
  .irom.text.xnrg_interface.ino.23.1447
                 0x0000000040266c6c       0x18 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
@@ -29539,12 +29539,12 @@ END GROUP
  .irom.text     0x000000004026f028       0x18 /home/runner/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lib/NONOSDK22x_190703/libnet80211.a(ieee80211_crypto_wep.o)
                 0x000000004026f028                wep
  *(.irom0.pstr.*)
- .irom0.pstr.xsns_interface.ino.979.1452
+ .irom0.pstr.xsns_interface.ino.1086.1452
                 0x000000004026f040        0x0 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
                                           0x2 (size before relaxing)
- .irom0.pstr.xsns_interface.ino.977.1451
+ .irom0.pstr.xsns_interface.ino.1084.1451
                 0x000000004026f040        0x7 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.966.1450
+ .irom0.pstr.xsns_interface.ino.1073.1450
                 0x000000004026f047        0x2 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
  .irom0.pstr.xnrg_20_dummy.ino.104.1446
                 0x000000004026f047       0x2c .pio/build/tasmota-lite/src/tasmota.ino.cpp.o

@@ -36264,7 +36264,7 @@ END GROUP
                 0x000000004027d219        0xe .pio/build/tasmota-display/src/tasmota.ino.cpp.o
  .irom.text.xx2c_interface.ino.23.1494
                 0x000000004027d227        0x7 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom.text.xsns_interface.ino.430.1490
+ .irom.text.xsns_interface.ino.542.1490
                 0x000000004027d22e        0x4 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
  *fill*         0x000000004027d232        0x2 
  .irom.text.xsns_interface.ino.21.1489
@@ -36931,11 +36931,11 @@ END GROUP
                 0x0000000040288510        0x7 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
  .irom0.pstr.xx2c_interface.ino.422.1495
                 0x0000000040288517        0x2 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.979.1493
+ .irom0.pstr.xsns_interface.ino.1086.1493
                 0x0000000040288517        0x2 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.977.1492
+ .irom0.pstr.xsns_interface.ino.1084.1492
                 0x0000000040288517        0x7 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.966.1491
+ .irom0.pstr.xsns_interface.ino.1073.1491
                 0x0000000040288517        0x2 .pio/build/tasmota-display/src/tasmota.ino.cpp.o
  .irom0.pstr.xsns_06_dht.ino.207.1488
                 0x0000000040288517       0x1b .pio/build/tasmota-display/src/tasmota.ino.cpp.o

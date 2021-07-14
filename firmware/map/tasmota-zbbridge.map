@@ -34789,9 +34789,9 @@ END GROUP
                                           0x2 (size before relaxing)
  .irom0.pstr.xx2c_interface.ino.422.2140
                 0x0000000040290f70        0x2 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.979.2138
+ .irom0.pstr.xsns_interface.ino.1086.2138
                 0x0000000040290f70        0x2 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.966.2136
+ .irom0.pstr.xsns_interface.ino.1073.2136
                 0x0000000040290f70        0x2 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom0.pstr.xdrv_interface.ino.1077.2133
                 0x0000000040290f70        0x2 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o

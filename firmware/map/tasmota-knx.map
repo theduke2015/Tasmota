@@ -35642,7 +35642,7 @@ END GROUP
                 0x000000004027de39        0xe .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
  .irom.text.xx2c_interface.ino.23.1833
                 0x000000004027de47        0x1 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom.text.xsns_interface.ino.430.1829
+ .irom.text.xsns_interface.ino.542.1829
                 0x000000004027de48        0x6 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
  *fill*         0x000000004027de4e        0x2 
  .irom.text.xsns_interface.ino.21.1828
@@ -36371,11 +36371,11 @@ END GROUP
                 0x00000000402878c0        0x7 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
  .irom0.pstr.xx2c_interface.ino.422.1834
                 0x00000000402878c7        0x2 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.979.1832
+ .irom0.pstr.xsns_interface.ino.1086.1832
                 0x00000000402878c7        0x2 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.977.1831
+ .irom0.pstr.xsns_interface.ino.1084.1831
                 0x00000000402878c7        0x7 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.966.1830
+ .irom0.pstr.xsns_interface.ino.1073.1830
                 0x00000000402878c7        0x2 .pio/build/tasmota-knx/src/tasmota.ino.cpp.o
  .irom0.pstr.xsns_06_dht.ino.207.1827
                 0x00000000402878c7       0x1b .pio/build/tasmota-knx/src/tasmota.ino.cpp.o

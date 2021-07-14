@@ -26194,10 +26194,10 @@ END GROUP
  .irom.text     0x0000000040257b68       0x18 /home/runner/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lib/NONOSDK22x_190703/libnet80211.a(ieee80211_crypto_wep.o)
                 0x0000000040257b68                wep
  *(.irom0.pstr.*)
- .irom0.pstr.xsns_interface.ino.979.798
+ .irom0.pstr.xsns_interface.ino.1086.798
                 0x0000000040257b80        0x0 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
                                           0x2 (size before relaxing)
- .irom0.pstr.xsns_interface.ino.966.796
+ .irom0.pstr.xsns_interface.ino.1073.796
                 0x0000000040257b80        0x2 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.xdrv_interface.ino.1077.793
                 0x0000000040257b80        0x2 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o

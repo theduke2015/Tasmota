@@ -34107,7 +34107,7 @@ END GROUP
                 0x000000004027f29d        0xe .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
  .irom.text.xx2c_interface.ino.23.1955
                 0x000000004027f2ab        0x1 .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
- .irom.text.xsns_interface.ino.430.1951
+ .irom.text.xsns_interface.ino.542.1951
                 0x000000004027f2ac        0x6 .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
  *fill*         0x000000004027f2b2        0x2 
  .irom.text.xsns_interface.ino.21.1950
@@ -34846,11 +34846,11 @@ END GROUP
                 0x0000000040289290        0x7 .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
  .irom0.pstr.xx2c_interface.ino.422.1956
                 0x0000000040289297        0x2 .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.979.1954
+ .irom0.pstr.xsns_interface.ino.1086.1954
                 0x0000000040289297        0x2 .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.977.1953
+ .irom0.pstr.xsns_interface.ino.1084.1953
                 0x0000000040289297        0x7 .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
- .irom0.pstr.xsns_interface.ino.966.1952
+ .irom0.pstr.xsns_interface.ino.1073.1952
                 0x0000000040289297        0x2 .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
  .irom0.pstr.xsns_06_dht.ino.207.1949
                 0x0000000040289297       0x1c .pio/build/tasmota-AF/src/tasmota.ino.cpp.o
