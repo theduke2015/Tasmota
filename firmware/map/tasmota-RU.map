@@ -37803,7 +37803,7 @@ END GROUP
  .irom0.pstr.support_rotary.ino.191.457
                 0x000000004028f06d       0x23 .pio/build/tasmota-RU/src/tasmota.ino.cpp.o
                                           0x6 (size before relaxing)
- .irom0.pstr.support_features.ino.786.454
+ .irom0.pstr.support_features.ino.788.454
                 0x000000004028f06d       0x4d .pio/build/tasmota-RU/src/tasmota.ino.cpp.o
  .irom0.pstr.support_esptool.ino.98.453
                 0x000000004028f0ba       0x2a .pio/build/tasmota-RU/src/tasmota.ino.cpp.o

@@ -31731,7 +31731,7 @@ END GROUP
                 0x0000000040272733        0x9 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
  .irom0.pstr.support_rtc.ino.115.419
                 0x000000004027273c       0x10 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
- .irom0.pstr.support_features.ino.786.415
+ .irom0.pstr.support_features.ino.788.415
                 0x000000004027274c       0x4d .pio/build/tasmota-lite/src/tasmota.ino.cpp.o
  .irom0.pstr.support_esptool.ino.98.414
                 0x0000000040272799       0x21 .pio/build/tasmota-lite/src/tasmota.ino.cpp.o

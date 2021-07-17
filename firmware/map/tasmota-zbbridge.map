@@ -38014,7 +38014,7 @@ END GROUP
                 0x0000000040296043        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom0.pstr.support_rtc.ino.115.426
                 0x000000004029604c       0x10 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support_features.ino.786.422
+ .irom0.pstr.support_features.ino.788.422
                 0x000000004029605c       0x4d .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom0.pstr.support_esptool.ino.98.421
                 0x00000000402960a9       0x21 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
