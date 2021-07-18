@@ -27474,24 +27474,24 @@ END GROUP
                 0x0000000040259e2b       0x11 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.settings.ino.340.213
                 0x0000000040259e3c       0x16 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.428.212
+ .irom0.pstr.tasmota.ino.436.212
                 0x0000000040259e52        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.396.211
+ .irom0.pstr.tasmota.ino.404.211
                 0x0000000040259e5a       0x3a .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.394.210
+ .irom0.pstr.tasmota.ino.402.210
                 0x0000000040259e94        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.393.209
+ .irom0.pstr.tasmota.ino.401.209
                 0x0000000040259e9c       0x27 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.365.208
+ .irom0.pstr.tasmota.ino.373.208
                 0x0000000040259ec3        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.365.207
+ .irom0.pstr.tasmota.ino.373.207
                 0x0000000040259ecb        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
                                           0x5 (size before relaxing)
- .irom0.pstr.tasmota.ino.362.206
+ .irom0.pstr.tasmota.ino.370.206
                 0x0000000040259ecb        0x6 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.360.205
+ .irom0.pstr.tasmota.ino.368.205
                 0x0000000040259ed1        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.354.204
+ .irom0.pstr.tasmota.ino.362.204
                 0x0000000040259eda       0x28 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.tasmota.ino.278.203
                 0x0000000040259f02        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o

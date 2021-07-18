@@ -38281,22 +38281,22 @@ END GROUP
                 0x000000004028f64c        0xb .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
  .irom0.pstr.settings.ino.241.212
                 0x000000004028f657        0xe .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.428.211
+ .irom0.pstr.tasmota.ino.436.211
                 0x000000004028f665        0x8 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.394.210
+ .irom0.pstr.tasmota.ino.402.210
                 0x000000004028f66d        0x8 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.393.209
+ .irom0.pstr.tasmota.ino.401.209
                 0x000000004028f675       0x27 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.365.208
+ .irom0.pstr.tasmota.ino.373.208
                 0x000000004028f69c        0x8 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.365.207
+ .irom0.pstr.tasmota.ino.373.207
                 0x000000004028f69c       0x27 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
                                           0x5 (size before relaxing)
- .irom0.pstr.tasmota.ino.362.206
+ .irom0.pstr.tasmota.ino.370.206
                 0x000000004028f69c        0x6 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.360.205
+ .irom0.pstr.tasmota.ino.368.205
                 0x000000004028f6a2        0x9 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
- .irom0.pstr.tasmota.ino.354.204
+ .irom0.pstr.tasmota.ino.362.204
                 0x000000004028f6ab       0x28 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
  .irom0.pstr.tasmota.ino.278.203
                 0x000000004028f6d3        0x8 .pio/build/tasmota-HU/src/tasmota.ino.cpp.o
