@@ -2319,31 +2319,31 @@ Discarded input sections
                 0x0000000000000000        0x6 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.support_command.ino.117.327
                 0x0000000000000000        0x6 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2466.301
+ .irom0.pstr.support.ino.2472.301
                 0x0000000000000000        0xc .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2464.300
+ .irom0.pstr.support.ino.2470.300
                 0x0000000000000000        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2461.299
+ .irom0.pstr.support.ino.2467.299
                 0x0000000000000000        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2455.298
+ .irom0.pstr.support.ino.2461.298
                 0x0000000000000000       0x12 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2445.297
+ .irom0.pstr.support.ino.2451.297
                 0x0000000000000000        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1746.286
+ .irom0.pstr.support.ino.1752.286
                 0x0000000000000000        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1744.285
+ .irom0.pstr.support.ino.1750.285
                 0x0000000000000000        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1737.284
+ .irom0.pstr.support.ino.1743.284
                 0x0000000000000000        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1729.283
+ .irom0.pstr.support.ino.1735.283
                 0x0000000000000000        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1712.282
+ .irom0.pstr.support.ino.1718.282
                 0x0000000000000000        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1710.281
+ .irom0.pstr.support.ino.1716.281
                 0x0000000000000000       0x1d .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1692.280
+ .irom0.pstr.support.ino.1698.280
                 0x0000000000000000        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1688.279
+ .irom0.pstr.support.ino.1694.279
                 0x0000000000000000        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.support.ino.1313.274
                 0x0000000000000000       0x33 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
@@ -27318,44 +27318,44 @@ END GROUP
                 0x0000000040259b26       0x18 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.support_button.ino.157.312
                 0x0000000040259b3e       0x16 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2487.310
+ .irom0.pstr.support.ino.2493.310
                 0x0000000040259b54        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2487.309
+ .irom0.pstr.support.ino.2493.309
                 0x0000000040259b5d        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2486.308
+ .irom0.pstr.support.ino.2492.308
                 0x0000000040259b66       0x3f .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2483.307
+ .irom0.pstr.support.ino.2489.307
                 0x0000000040259ba5        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2483.306
+ .irom0.pstr.support.ino.2489.306
                 0x0000000040259ba5        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2482.305
+ .irom0.pstr.support.ino.2488.305
                 0x0000000040259ba5       0x2f .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2479.304
+ .irom0.pstr.support.ino.2485.304
                 0x0000000040259bd4        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2479.303
+ .irom0.pstr.support.ino.2485.303
                 0x0000000040259bd4        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2478.302
+ .irom0.pstr.support.ino.2484.302
                 0x0000000040259bd4       0x2f .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2422.296
+ .irom0.pstr.support.ino.2428.296
                 0x0000000040259c03       0x10 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
                 0x0000000040259c12                _ZZN16esp8266webserver24ESP8266WebServerTemplateI10WiFiServerE20responseCodeToStringEiE3__c_39
- .irom0.pstr.support.ino.2403.295
+ .irom0.pstr.support.ino.2409.295
                 0x0000000040259c13       0x13 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2402.294
+ .irom0.pstr.support.ino.2408.294
                 0x0000000040259c26        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2374.293
+ .irom0.pstr.support.ino.2380.293
                 0x0000000040259c26       0x15 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2271.292
+ .irom0.pstr.support.ino.2277.292
                 0x0000000040259c3b        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2266.291
+ .irom0.pstr.support.ino.2272.291
                 0x0000000040259c43       0x2c .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2257.290
+ .irom0.pstr.support.ino.2263.290
                 0x0000000040259c6f       0x36 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1780.289
+ .irom0.pstr.support.ino.1786.289
                 0x0000000040259ca5       0x17 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1778.288
+ .irom0.pstr.support.ino.1784.288
                 0x0000000040259cbc        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1772.287
+ .irom0.pstr.support.ino.1778.287
                 0x0000000040259cbc       0x16 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.support.ino.1326.276
                 0x0000000040259cd2       0x16 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o

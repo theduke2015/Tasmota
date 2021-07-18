@@ -3905,15 +3905,15 @@ Discarded input sections
                 0x0000000000000000        0xa .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom0.pstr.support_command.ino.117.336
                 0x0000000000000000        0x6 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2466.310
+ .irom0.pstr.support.ino.2472.310
                 0x0000000000000000        0xc .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2464.309
+ .irom0.pstr.support.ino.2470.309
                 0x0000000000000000        0x8 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2461.308
+ .irom0.pstr.support.ino.2467.308
                 0x0000000000000000        0x5 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2455.307
+ .irom0.pstr.support.ino.2461.307
                 0x0000000000000000       0x12 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2445.306
+ .irom0.pstr.support.ino.2451.306
                 0x0000000000000000        0x8 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom0.pstr.support.ino.1313.278
                 0x0000000000000000       0x33 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
@@ -38215,74 +38215,74 @@ END GROUP
                 0x0000000040296aa5       0x18 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom0.pstr.support_button.ino.157.321
                 0x0000000040296abd       0x16 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2487.319
+ .irom0.pstr.support.ino.2493.319
                 0x0000000040296ad3        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2487.318
+ .irom0.pstr.support.ino.2493.318
                 0x0000000040296ad3        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2486.317
+ .irom0.pstr.support.ino.2492.317
                 0x0000000040296adc       0x3f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2483.316
+ .irom0.pstr.support.ino.2489.316
                 0x0000000040296b1b        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2483.315
+ .irom0.pstr.support.ino.2489.315
                 0x0000000040296b1b        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2482.314
+ .irom0.pstr.support.ino.2488.314
                 0x0000000040296b1b       0x2f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2479.313
+ .irom0.pstr.support.ino.2485.313
                 0x0000000040296b4a        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2479.312
+ .irom0.pstr.support.ino.2485.312
                 0x0000000040296b4a        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2478.311
+ .irom0.pstr.support.ino.2484.311
                 0x0000000040296b4a       0x2f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2422.305
+ .irom0.pstr.support.ino.2428.305
                 0x0000000040296b79       0x10 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
                 0x0000000040296b88                _ZZN16esp8266webserver24ESP8266WebServerTemplateI10WiFiServerE20responseCodeToStringEiE3__c_39
- .irom0.pstr.support.ino.2403.304
+ .irom0.pstr.support.ino.2409.304
                 0x0000000040296b89       0x13 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2402.303
+ .irom0.pstr.support.ino.2408.303
                 0x0000000040296b9c        0x5 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2374.302
+ .irom0.pstr.support.ino.2380.302
                 0x0000000040296b9c       0x15 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2271.301
+ .irom0.pstr.support.ino.2277.301
                 0x0000000040296bb1        0x8 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2266.300
+ .irom0.pstr.support.ino.2272.300
                 0x0000000040296bb9       0x2c .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2257.299
+ .irom0.pstr.support.ino.2263.299
                 0x0000000040296be5       0x36 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2142.298
+ .irom0.pstr.support.ino.2148.298
                 0x0000000040296c1b       0x1f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2139.297
+ .irom0.pstr.support.ino.2145.297
                 0x0000000040296c3a        0x3 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2134.296
+ .irom0.pstr.support.ino.2140.296
                 0x0000000040296c3a       0x1f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2130.295
+ .irom0.pstr.support.ino.2136.295
                 0x0000000040296c59       0x1f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
                                           0x8 (size before relaxing)
- .irom0.pstr.support.ino.2119.294
+ .irom0.pstr.support.ino.2125.294
                 0x0000000040296c59       0x1f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1780.293
+ .irom0.pstr.support.ino.1786.293
                 0x0000000040296c78       0x1f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
                                          0x17 (size before relaxing)
- .irom0.pstr.support.ino.1778.292
+ .irom0.pstr.support.ino.1784.292
                 0x0000000040296c78        0x5 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1772.291
+ .irom0.pstr.support.ino.1778.291
                 0x0000000040296c78       0x1f .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
                                          0x16 (size before relaxing)
- .irom0.pstr.support.ino.1746.290
+ .irom0.pstr.support.ino.1752.290
                 0x0000000040296c78        0x9 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1744.289
+ .irom0.pstr.support.ino.1750.289
                 0x0000000040296c81        0x5 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1737.288
+ .irom0.pstr.support.ino.1743.288
                 0x0000000040296c86        0x5 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1729.287
+ .irom0.pstr.support.ino.1735.287
                 0x0000000040296c8b        0x5 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1712.286
+ .irom0.pstr.support.ino.1718.286
                 0x0000000040296c90        0x5 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1710.285
+ .irom0.pstr.support.ino.1716.285
                 0x0000000040296c90       0x1d .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1692.284
+ .irom0.pstr.support.ino.1698.284
                 0x0000000040296cad       0x1d .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
                                           0x5 (size before relaxing)
- .irom0.pstr.support.ino.1688.283
+ .irom0.pstr.support.ino.1694.283
                 0x0000000040296cad        0x5 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o
  .irom0.pstr.support.ino.1326.280
                 0x0000000040296cb2        0x3 .pio/build/tasmota-zbbridge/src/tasmota.ino.cpp.o

@@ -3877,11 +3877,11 @@ Discarded input sections
                 0x0000000000000000        0x4 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
  .irom0.pstr.support_command.ino.117.334
                 0x0000000000000000        0x6 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2466.308
+ .irom0.pstr.support.ino.2472.308
                 0x0000000000000000        0xc .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2464.307
+ .irom0.pstr.support.ino.2470.307
                 0x0000000000000000        0x8 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2461.306
+ .irom0.pstr.support.ino.2467.306
                 0x0000000000000000        0x5 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
  .irom.text.i18n.h.830.140
                 0x0000000000000000       0x1a .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
@@ -38072,78 +38072,78 @@ END GROUP
                 0x000000004028f01a       0x1b .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
  .irom0.pstr.support_button.ino.157.319
                 0x000000004028f035       0x18 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2487.317
+ .irom0.pstr.support.ino.2493.317
                 0x000000004028f04d        0x9 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2487.316
+ .irom0.pstr.support.ino.2493.316
                 0x000000004028f056        0x9 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2486.315
+ .irom0.pstr.support.ino.2492.315
                 0x000000004028f05f       0x3f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2483.314
+ .irom0.pstr.support.ino.2489.314
                 0x000000004028f09e        0x9 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2483.313
+ .irom0.pstr.support.ino.2489.313
                 0x000000004028f09e        0x9 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2482.312
+ .irom0.pstr.support.ino.2488.312
                 0x000000004028f09e       0x2f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2479.311
+ .irom0.pstr.support.ino.2485.311
                 0x000000004028f0cd        0x9 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2479.310
+ .irom0.pstr.support.ino.2485.310
                 0x000000004028f0cd        0x9 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2478.309
+ .irom0.pstr.support.ino.2484.309
                 0x000000004028f0cd       0x2f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2455.305
+ .irom0.pstr.support.ino.2461.305
                 0x000000004028f0fc       0x12 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2445.304
+ .irom0.pstr.support.ino.2451.304
                 0x000000004028f10e        0x8 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2422.303
+ .irom0.pstr.support.ino.2428.303
                 0x000000004028f116       0x10 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
                 0x000000004028f125                _ZZN16esp8266webserver24ESP8266WebServerTemplateI10WiFiServerE20responseCodeToStringEiE3__c_39
- .irom0.pstr.support.ino.2403.302
+ .irom0.pstr.support.ino.2409.302
                 0x000000004028f126       0x13 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2402.301
+ .irom0.pstr.support.ino.2408.301
                 0x000000004028f139        0x5 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2374.300
+ .irom0.pstr.support.ino.2380.300
                 0x000000004028f139       0x15 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2271.299
+ .irom0.pstr.support.ino.2277.299
                 0x000000004028f14e        0x8 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2266.298
+ .irom0.pstr.support.ino.2272.298
                 0x000000004028f156       0x3d .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2257.297
+ .irom0.pstr.support.ino.2263.297
                 0x000000004028f193       0x43 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2142.296
+ .irom0.pstr.support.ino.2148.296
                 0x000000004028f1d6       0x1f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2139.295
+ .irom0.pstr.support.ino.2145.295
                 0x000000004028f1f5        0x3 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2134.294
+ .irom0.pstr.support.ino.2140.294
                 0x000000004028f1f5       0x1f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.2130.293
+ .irom0.pstr.support.ino.2136.293
                 0x000000004028f214       0x1f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
                                           0x8 (size before relaxing)
- .irom0.pstr.support.ino.2119.292
+ .irom0.pstr.support.ino.2125.292
                 0x000000004028f214       0x1f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1780.291
+ .irom0.pstr.support.ino.1786.291
                 0x000000004028f233       0x1f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
                                          0x17 (size before relaxing)
- .irom0.pstr.support.ino.1778.290
+ .irom0.pstr.support.ino.1784.290
                 0x000000004028f233        0x5 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1772.289
+ .irom0.pstr.support.ino.1778.289
                 0x000000004028f233       0x1f .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
                                          0x16 (size before relaxing)
- .irom0.pstr.support.ino.1746.288
+ .irom0.pstr.support.ino.1752.288
                 0x000000004028f233        0x9 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1744.287
+ .irom0.pstr.support.ino.1750.287
                 0x000000004028f23c        0x5 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1737.286
+ .irom0.pstr.support.ino.1743.286
                 0x000000004028f241        0x5 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1729.285
+ .irom0.pstr.support.ino.1735.285
                 0x000000004028f246        0x5 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1712.284
+ .irom0.pstr.support.ino.1718.284
                 0x000000004028f24b        0x5 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1710.283
+ .irom0.pstr.support.ino.1716.283
                 0x000000004028f24b       0x1d .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
- .irom0.pstr.support.ino.1692.282
+ .irom0.pstr.support.ino.1698.282
                 0x000000004028f268       0x1d .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
                                           0x5 (size before relaxing)
- .irom0.pstr.support.ino.1688.281
+ .irom0.pstr.support.ino.1694.281
                 0x000000004028f268        0x5 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
  .irom0.pstr.support.ino.1326.278
                 0x000000004028f26d        0x3 .pio/build/tasmota-NL/src/tasmota.ino.cpp.o
