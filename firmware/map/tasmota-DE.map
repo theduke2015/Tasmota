@@ -18253,7 +18253,7 @@ END GROUP
                 0x0000000040100120                _ZNKSt8functionIFbvEEclEv
  *fill*         0x000000004010013c        0x0 
 
-.irom0.text     0x0000000040201010    0x8ed7c
+.irom0.text     0x0000000040201010    0x8ed80
                 0x0000000040201010                _irom0_text_start = ABSOLUTE (.)
  *(.ver_number)
  .ver_number    0x0000000040201010        0x4 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
@@ -38293,251 +38293,251 @@ END GROUP
  .irom0.pstr.tasmota.ino.402.210
                 0x000000004028f557        0x8 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
  .irom0.pstr.tasmota.ino.401.209
-                0x000000004028f55f       0x27 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
+                0x000000004028f55f       0x29 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
  .irom0.pstr.tasmota.ino.373.208
-                0x000000004028f586        0x8 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
+                0x000000004028f588        0x8 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
  .irom0.pstr.tasmota.ino.373.207
-                0x000000004028f586       0x27 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
+                0x000000004028f588       0x29 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
                                           0x5 (size before relaxing)
  .irom0.pstr.tasmota.ino.370.206
-                0x000000004028f586        0x6 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
+                0x000000004028f588        0x6 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
  .irom0.pstr.tasmota.ino.368.205
-                0x000000004028f58c        0x9 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
+                0x000000004028f58e        0x9 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
  .irom0.pstr.tasmota.ino.362.204
-                0x000000004028f595       0x28 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
+                0x000000004028f597       0x28 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
  .irom0.pstr.tasmota.ino.278.203
-                0x000000004028f5bd        0x8 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
+                0x000000004028f5bf        0x8 .pio/build/tasmota-DE/src/tasmota.ino.cpp.o
  .irom0.pstr.ESP8266HTTPClient.cpp.1405.33
-                0x000000004028f5c5        0x8 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5c7        0x8 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1375.32
-                0x000000004028f5c5        0x9 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5c7        0x9 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1371.31
-                0x000000004028f5c5       0x12 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5c7       0x12 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1366.30
-                0x000000004028f5c5        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5c7        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1365.29
-                0x000000004028f5d0        0x6 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5d2        0x6 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1364.28
-                0x000000004028f5d0        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5d2        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1360.27
-                0x000000004028f5d0        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5d2        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1348.26
-                0x000000004028f5d0        0x8 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5d2        0x8 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1307.25
-                0x000000004028f5d0        0x6 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5d2        0x6 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1307.24
-                0x000000004028f5d0        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5d2        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1306.23
-                0x000000004028f5d0        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5d2        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1302.22
-                0x000000004028f5df       0x18 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5e1       0x18 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1298.21
-                0x000000004028f5f7       0x34 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f5f9       0x34 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1294.20
-                0x000000004028f62b        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f62d        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1287.19
-                0x000000004028f63a        0x9 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f63c        0x9 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1279.18
-                0x000000004028f643        0x9 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
-                0x000000004028f644                _ZZN16esp8266webserver24ESP8266WebServerTemplateI10WiFiServerE14_prepareHeaderER6StringiPKcjE3__c
+                0x000000004028f645        0x9 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f646                _ZZN16esp8266webserver24ESP8266WebServerTemplateI10WiFiServerE14_prepareHeaderER6StringiPKcjE3__c
  .irom0.pstr.ESP8266HTTPClient.cpp.1125.17
-                0x000000004028f64c        0xe .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f64e        0xe .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1124.16
-                0x000000004028f65a        0x5 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f65c        0x5 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1123.15
-                0x000000004028f65a        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f65c        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1122.14
-                0x000000004028f665        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f667        0xb .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1107.13
-                0x000000004028f665        0xd .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f667        0xd .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1105.12
-                0x000000004028f672       0x13 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f674       0x13 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1103.11
-                0x000000004028f685       0x20 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f687       0x20 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1101.10
-                0x000000004028f6a5        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f6a7        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1099.9
-                0x000000004028f6b4        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f6b6        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1097.8
-                0x000000004028f6c3        0xa .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f6c5        0xa .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1095.7
-                0x000000004028f6cd       0x10 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f6cf       0x10 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1093.6
-                0x000000004028f6dd        0xe .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f6df        0xe .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1091.5
-                0x000000004028f6eb       0x14 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f6ed       0x14 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1089.4
-                0x000000004028f6ff       0x13 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f701       0x13 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.1087.3
-                0x000000004028f712       0x12 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f714       0x12 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.685.1
-                0x000000004028f724        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f726        0xf .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266HTTPClient.cpp.116.0
-                0x000000004028f724       0x12 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
+                0x000000004028f726       0x12 .pio/build/tasmota-DE/lib8c4/libESP8266HTTPClient.a(ESP8266HTTPClient.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.282.23
-                0x000000004028f736       0x12 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f738       0x12 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.278.22
-                0x000000004028f748        0x7 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f74a        0x7 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.278.21
-                0x000000004028f74f        0xf .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f751        0xf .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.276.20
-                0x000000004028f75e        0x7 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f760        0x7 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.276.19
-                0x000000004028f765        0xf .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f767        0xf .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.273.18
-                0x000000004028f765       0x16 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f767       0x16 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.272.17
-                0x000000004028f77b       0x14 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f77d       0x14 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.271.16
-                0x000000004028f78f       0x15 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f791       0x15 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.270.15
-                0x000000004028f7a4       0x16 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f7a6       0x16 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.269.14
-                0x000000004028f7ba       0x15 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f7bc       0x15 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.268.13
-                0x000000004028f7cf       0x11 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f7d1       0x11 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.267.12
-                0x000000004028f7e0       0x12 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f7e2       0x12 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.266.11
-                0x000000004028f7f2       0x12 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f7f4       0x12 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.265.10
-                0x000000004028f804       0x14 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f806       0x14 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.243.9
-                0x000000004028f818       0x23 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f81a       0x23 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.241.8
-                0x000000004028f83b       0x19 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f83d       0x19 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.239.7
-                0x000000004028f854        0xa .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f856        0xa .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.237.6
-                0x000000004028f85e       0x10 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f860       0x10 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.235.5
-                0x000000004028f86e       0x10 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f870       0x10 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.233.4
-                0x000000004028f87e       0x15 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f880       0x15 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.231.3
-                0x000000004028f893       0x1b .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f895       0x1b .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.229.2
-                0x000000004028f8ae       0x11 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f8b0       0x11 .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.224.1
-                0x000000004028f8bf        0xd .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f8c1        0xd .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ESP8266httpUpdate.cpp.219.0
-                0x000000004028f8cc        0xf .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
+                0x000000004028f8ce        0xf .pio/build/tasmota-DE/lib5f4/libESP8266httpUpdate.a(ESP8266httpUpdate.cpp.o)
  .irom0.pstr.ext_printf.cpp.310.2
-                0x000000004028f8db        0xc .pio/build/tasmota-DE/lib294/libExt-printf.a(ext_printf.cpp.o)
+                0x000000004028f8dd        0xc .pio/build/tasmota-DE/lib294/libExt-printf.a(ext_printf.cpp.o)
  .irom0.pstr.Esp.cpp.492.14
-                0x000000004028f8db        0x8 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
+                0x000000004028f8dd        0x8 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
  .irom0.pstr.Esp.cpp.491.13
-                0x000000004028f8e3       0x10 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
+                0x000000004028f8e5       0x10 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
  .irom0.pstr.Esp.cpp.489.12
-                0x000000004028f8f3       0x10 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
+                0x000000004028f8f5       0x10 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
  .irom0.pstr.Esp.cpp.487.11
-                0x000000004028f903       0x18 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
+                0x000000004028f905       0x18 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
  .irom0.pstr.Esp.cpp.485.10
-                0x000000004028f91b       0x12 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
+                0x000000004028f91d       0x12 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
  .irom0.pstr.Esp.cpp.483.9
-                0x000000004028f92d        0xa .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
+                0x000000004028f92f        0xa .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
  .irom0.pstr.Esp.cpp.481.8
-                0x000000004028f937       0x12 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
+                0x000000004028f939       0x12 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
  .irom0.pstr.Esp.cpp.479.7
-                0x000000004028f949        0x9 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
+                0x000000004028f94b        0x9 .pio/build/tasmota-DE/libFrameworkArduino.a(Esp.cpp.o)
  .irom0.pstr.IPAddress.cpp.133.0
-                0x000000004028f952        0xb .pio/build/tasmota-DE/libFrameworkArduino.a(IPAddress.cpp.o)
+                0x000000004028f954        0xb .pio/build/tasmota-DE/libFrameworkArduino.a(IPAddress.cpp.o)
  .irom0.pstr.Updater.cpp.575.14
-                0x000000004028f95d        0x8 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028f95f        0x8 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.573.13
-                0x000000004028f965       0x3b .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028f967       0x3b .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.571.12
-                0x000000004028f9a0       0x1e .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028f9a2       0x1e .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.569.11
-                0x000000004028f9be       0x21 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028f9c0       0x21 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.567.10
-                0x000000004028f9df       0x25 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028f9e1       0x25 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.565.9
-                0x000000004028fa04       0x1e .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fa06       0x1e .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.563.8
-                0x000000004028fa22       0x28 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fa24       0x28 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.561.7
-                0x000000004028fa4a       0x14 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fa4c       0x14 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.559.6
-                0x000000004028fa5e        0xf .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fa60        0xf .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.557.5
-                0x000000004028fa6d       0x11 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fa6f       0x11 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.555.4
-                0x000000004028fa7e       0x12 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fa80       0x12 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.553.3
-                0x000000004028fa90       0x13 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fa92       0x13 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.551.2
-                0x000000004028faa3       0x13 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028faa5       0x13 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.549.1
-                0x000000004028fab6        0x9 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fab8        0x9 .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.Updater.cpp.547.0
-                0x000000004028fabf        0xc .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
+                0x000000004028fac1        0xc .pio/build/tasmota-DE/libFrameworkArduino.a(Updater.cpp.o)
  .irom0.pstr.abi.cpp.59.0
-                0x000000004028facb        0x8 .pio/build/tasmota-DE/libFrameworkArduino.a(abi.cpp.o)
+                0x000000004028facd        0x8 .pio/build/tasmota-DE/libFrameworkArduino.a(abi.cpp.o)
  .irom0.pstr.base64.cpp.72.0
-                0x000000004028fad3        0x7 .pio/build/tasmota-DE/libFrameworkArduino.a(base64.cpp.o)
+                0x000000004028fad5        0x7 .pio/build/tasmota-DE/libFrameworkArduino.a(base64.cpp.o)
  .irom0.pstr.core_esp8266_main.cpp.206.5
-                0x000000004028fada       0x16 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
+                0x000000004028fadc       0x16 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
  .irom0.pstr.core_esp8266_main.cpp.133.1
-                0x000000004028faf0       0x16 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
+                0x000000004028faf2       0x16 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.259.16
-                0x000000004028faf0       0x25 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028faf2       0x25 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.100.0
-                0x000000004028fb15       0x21 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fb17       0x21 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.226.15
-                0x000000004028fb36       0x1f .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fb38       0x1f .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.206.14
-                0x000000004028fb55       0x23 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fb57       0x23 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.197.13
-                0x000000004028fb78        0xd .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fb7a        0xd .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.193.12
-                0x000000004028fb85        0xd .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fb87        0xd .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
                                          0x21 (size before relaxing)
  .irom0.pstr.core_esp8266_postmortem.cpp.187.11
-                0x000000004028fb85        0xb .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fb87        0xb .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.183.10
-                0x000000004028fb90        0xc .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fb92        0xc .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.176.9
-                0x000000004028fb9c       0x2f .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fb9e       0x2f .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.172.8
-                0x000000004028fbcb        0xe .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fbcd        0xe .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.151.7
-                0x000000004028fbd9       0x10 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fbdb       0x10 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.148.6
-                0x000000004028fbe9       0x11 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fbeb       0x11 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.144.5
-                0x000000004028fbfa       0x52 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fbfc       0x52 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.141.4
-                0x000000004028fc4c        0xf .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fc4e        0xf .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.138.3
-                0x000000004028fc5b       0x1e .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fc5d       0x1e .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.133.2
-                0x000000004028fc79       0x19 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fc7b       0x19 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  .irom0.pstr.core_esp8266_postmortem.cpp.131.1
-                0x000000004028fc92       0x10 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
+                0x000000004028fc94       0x10 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_postmortem.cpp.o)
  *(.rodata._ZZ*__FUNCTION__)
  *(.rodata._ZZ*__PRETTY_FUNCTION__)
  *(.rodata._ZZ*__func__)
  .rodata._ZZ18__cxa_pure_virtualE8__func__
-                0x000000004028fca2       0x13 .pio/build/tasmota-DE/libFrameworkArduino.a(abi.cpp.o)
+                0x000000004028fca4       0x13 .pio/build/tasmota-DE/libFrameworkArduino.a(abi.cpp.o)
  .rodata._ZZL9loop_taskP11ETSEventTagE8__func__
-                0x000000004028fcb5        0xa .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
+                0x000000004028fcb7        0xa .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
  .rodata._ZZ7__yieldE8__func__
-                0x000000004028fcbf        0x8 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
+                0x000000004028fcc1        0x8 .pio/build/tasmota-DE/libFrameworkArduino.a(core_esp8266_main.cpp.o)
  *(.irom.exceptiontext)
  *(.rodata._ZTIN* .rodata._ZTSN10* .rodata._ZTISt* .rodata._ZTSSt*)
  *(.rodata._ZTIPKc .rodata._ZTIc .rodata._ZTIv .rodata._ZTSv .rodata._ZTSc .rodata._ZTSPKc .rodata._ZTSi .rodata._ZTIi)
-                0x000000004028fcc8                . = ALIGN (0x4)
- *fill*         0x000000004028fcc7        0x1 
+                0x000000004028fccc                . = ALIGN (0x4)
+ *fill*         0x000000004028fcc9        0x3 
  *(.gcc_except_table .gcc_except_table.*)
-                0x000000004028fcc8                . = ALIGN (0x4)
-                0x000000004028fcc8                __eh_frame = ABSOLUTE (.)
+                0x000000004028fccc                . = ALIGN (0x4)
+                0x000000004028fccc                __eh_frame = ABSOLUTE (.)
  *(.eh_frame)
- .eh_frame      0x000000004028fcc8       0xc0 /home/runner/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lib/libgcc.a(unwind-dw2-fde.o)
-                0x000000004028fd8c                . = ((. + 0x7) & 0xfffffffffffffffc)
- *fill*         0x000000004028fd88        0x4 
-                0x000000004028fd8c                _irom0_text_end = ABSOLUTE (.)
-                0x000000004028fd8c                _flash_code_end = ABSOLUTE (.)
+ .eh_frame      0x000000004028fccc       0xc0 /home/runner/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lib/libgcc.a(unwind-dw2-fde.o)
+                0x000000004028fd90                . = ((. + 0x7) & 0xfffffffffffffffc)
+ *fill*         0x000000004028fd8c        0x4 
+                0x000000004028fd90                _irom0_text_end = ABSOLUTE (.)
+                0x000000004028fd90                _flash_code_end = ABSOLUTE (.)
 
 .text1          0x000000004010013c     0x77d8
  *(.literal .text .iram.literal .iram.text .iram.text.* .literal.* .text.* .stub .gnu.warning .gnu.linkonce.literal.* .gnu.linkonce.t.*.literal .gnu.linkonce.t.*)
