@@ -77,6 +77,13 @@ char* GetOtaUrl(char *otaurl, size_t otaurl_size)
   return otaurl;
 }
 
+String ResolveToken(const char* input) {
+  String resolved = input;
+  resolved.replace(F("%hostname%"), TasmotaGlobal.hostname);
+  resolved.replace(F("%id%"), NetworkUniqueId());
+  return resolved;
+}
+
 char* GetTopic_P(char *stopic, uint32_t prefix, char *topic, const char* subtopic)
 {
   /* prefix 0 = Cmnd
@@ -120,8 +127,7 @@ char* GetTopic_P(char *stopic, uint32_t prefix, char *topic, const char* subtopi
     fulltopic.replace(FPSTR(MQTT_TOKEN_PREFIX), SettingsText(SET_MQTTPREFIX1 + prefix));
 
     fulltopic.replace(FPSTR(MQTT_TOKEN_TOPIC), (const __FlashStringHelper *)topic);
-    fulltopic.replace(F("%hostname%"), TasmotaGlobal.hostname);
-    fulltopic.replace(F("%id%"), NetworkUniqueId());
+    fulltopic = ResolveToken(fulltopic.c_str());
   }
   fulltopic.replace(F("#"), "");
   fulltopic.replace(F("//"), "/");
@@ -1795,7 +1801,8 @@ void GpioInit(void)
                      ValidSpiPinUsed(GPIO_ST7789_DC) ||  // ST7789 CS may be omitted so chk DC too
                      ValidSpiPinUsed(GPIO_ST7789_CS) ||
                      (ValidSpiPinUsed(GPIO_SSD1331_CS) && ValidSpiPinUsed(GPIO_SSD1331_DC)) ||
-                     ValidSpiPinUsed(GPIO_SDCARD_CS)
+                     ValidSpiPinUsed(GPIO_SDCARD_CS) ||
+                     ValidSpiPinUsed(GPIO_MCP2515_CS)
                     );
     // If SPI_CS and/or SPI_DC is used they must be valid
     TasmotaGlobal.spi_enabled = (valid_cs) ? SPI_MOSI_MISO : SPI_NONE;
@@ -1843,6 +1850,10 @@ void GpioInit(void)
       pinMode(i, OUTPUT);
       digitalWrite(i, 0);
     }
+
+/*
+  // Until 20210726
+
     // Set any non-used GPIO to INPUT - Related to resetPins() in support_legacy_cores.ino
     // Doing it here solves relay toggles at restart.
 #if CONFIG_IDF_TARGET_ESP32C3
@@ -1858,6 +1869,16 @@ void GpioInit(void)
       }
     }
 #endif // CONFIG_IDF_TARGET_ESP32C3
+*/
+#ifdef ESP8266
+    // Set any non-used GPIO to INPUT - Related to resetPins() in support_legacy_cores.ino
+    // Doing it here solves relay toggles at restart.
+    else if (((i < 6) || (i > 11)) && (GPIO_NONE == mpin)) {  // Skip SPI flash interface
+      if (!((1 == i) || (3 == i))) {             // Skip serial
+        pinMode(i, INPUT);
+      }
+    }
+#endif  // ESP8266
   }
 
   // Digital input
